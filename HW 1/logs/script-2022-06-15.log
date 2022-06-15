@@ -1,0 +1,64 @@
+Script started on Wed Jun 15 10:01:09 2022
+command: script -r time-2022-06-15.txt
+Script started, output file is time-2022-06-15.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro ~ % [K[?2004hlls[?2004l
+1115			Library			eclipse
+Applications		Movies			eclipse-workspace
+ChelseaG		Music			gretl
+Desktop			NetBeansProjects	script-2022-06-15.log
+Documents		Pictures		time-2022-06-15.txt
+Downloads		Public
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro ~ % [K[?2004hccd desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro desktop % [K[?2004hlls[?2004l
+COVID-19 Vaccination Record Card.pdf
+IMG_2821.HEIC
+Screen Shot 2021-12-14 at 1.27.42 AM.png
+Screen Shot 2021-12-14 at 1.28.17 AM.png
+Screen Shot 2022-01-29 at 4.39.28 PM.png
+Screen Shot 2022-01-29 at 4.39.37 PM.png
+Screen Shot 2022-01-29 at 4.40.05 PM.png
+Screen Shot 2022-01-29 at 4.40.35 PM.png
+Screen Shot 2022-01-29 at 4.40.47 PM.png
+Screen Shot 2022-01-29 at 4.41.25 PM.png
+Screen Shot 2022-01-29 at 4.42.00 PM.png
+Screen Shot 2022-01-29 at 4.42.07 PM.png
+Screen Shot 2022-06-14 at 12.54.39 AM.png
+Screen Shot 2022-06-14 at 4.14.47 PM.png
+logs
+src
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro desktop % [K[?2004hccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hjjavac c CircleStat.java[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hjjava ci  CircleStat. [?2004l
+Enter radius: 10
+When the radius is 10.0, the circumference is 62.83185307179586 and the area is 314.1592653589793.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hggre g  [7mjavac[27m[27mj[27ma[27mv[27ma[27mc Grad    GradeCalculator.java[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hjjavac   g GradeCalculator. [?2004l
+Enter homework score: 10
+Enter CodeLab score: 10
+Enter Midterm1 score: 10
+Enter Midterm2 score: 10
+Enter Final score: 10
+The total score is 50.0
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hJ jjavax c gr  Rectanglestat.java[?2004l
+Rectanglestat.java:12: error: class RectangleStat is public, should be declared in a file named RectangleStat.java
+public class RectangleStat {
+       ^
+1 error
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hjjavac R[?2004l
+error: Class names, 'R', are only accepted if annotation processing is explicitly requested
+1 error
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hjjavac RectangleStat.java[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004hjjavac   n r RectangleStat. [?2004l
+Enter width: 12
+Enter length: 15
+When one side is 12.0 and the other side is 15.0, the area is 180.0 and the perimeter is 54.0.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sandras-MacBook-Pro.local/Users/sandradawkins/desktop/src[0m[27m[24m[Jsandradawkins@Sandras-MacBook-Pro src % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is time-2022-06-15.txt
+
+Script done on Wed Jun 15 10:05:50 2022

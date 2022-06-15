@@ -1,0 +1,1 @@
+For Homework 1, I ran a java code to for grade calculator, rectangle stat, circle stat. The output calculated the total score of the grade calculator, and area and perimeter of a rectangle, and the radius and circumference of a circle. 
